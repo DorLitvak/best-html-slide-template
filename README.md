@@ -4,6 +4,11 @@ Tired of fighting slide software? This is a single HTML file that looks and work
 
 **[▶ Try the live demo](https://dorlitvak.github.io/best-html-slide-template/)**
 
+| | |
+|---|---|
+| ![Title slide](screenshots/title.png) | ![Schedule slide](screenshots/schedule.png) |
+| ![Drag the points slide](screenshots/drag-points.png) | ![Closing slide](screenshots/thanks.png) |
+
 ## Features
 
 - **Edit by asking.** Tell your AI agent "add a slide about X with a chart" or "rewrite my notes for slide 4". Slides, notes and figures are plain HTML, so the agent can change anything.
@@ -12,11 +17,6 @@ Tired of fighting slide software? This is a single HTML file that looks and work
 - **Interactive figures.** The examples include a 3D loss surface you can rotate and train on (SGD, Momentum, Adam), and a scatter plot where you drag points and the best-fit line follows.
 - **Light and dark mode** that follow the viewer's system setting.
 - **A single file.** Share it, drop it in a course page or host it anywhere. The only network request is for Google Fonts.
-
-| | |
-|---|---|
-| ![Title slide](screenshots/title.png) | ![Schedule slide](screenshots/schedule.png) |
-| ![Drag the points slide](screenshots/drag-points.png) | ![Closing slide](screenshots/thanks.png) |
 
 ## Quick start
 
