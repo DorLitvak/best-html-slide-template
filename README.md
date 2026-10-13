@@ -4,8 +4,6 @@ Tired of fighting slide software? This is a single HTML file that looks and work
 
 **[▶ Try the live demo](https://dorlitvak.github.io/best-html-slide-template/)**
 
-![Interactive 3D loss landscape slide](screenshots/loss-landscape.png)
-
 ## Features
 
 - **Edit by asking.** Tell your AI agent "add a slide about X with a chart" or "rewrite my notes for slide 4". Slides, notes and figures are plain HTML, so the agent can change anything.
